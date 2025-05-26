@@ -1,0 +1,79 @@
+/* pages/test02/test02.wxss */
+page{
+	background-color: #F2F2F6;
+}
+.font37{
+  color: #C5C5C7;
+}
+.font47{
+  font-size: 40rpx;
+  font-weight: 800;
+}
+.A1{
+	margin-left: 30rpx;
+	margin-right: 30rpx;
+	justify-content: space-between;
+	display: flex;
+	margin-top: 180rpx;
+}
+.font1{
+	color: #3478F6;
+}
+.A2{
+  background-color: white;
+  margin-top: 47rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  border-radius: 30rpx;
+}
+.hrline{
+  width: 664rpx;
+  margin-left: 30rpx;
+  height: 1rpx;
+  background-color: rgb(241, 236, 236);
+}
+.a21{
+  margin: 30rpx;
+  height: 60rpx;
+}
+.a22{
+  height: 200rpx;
+  margin: 30rpx;
+}
+.A3{
+  background-color: white;
+  height: 90rpx;
+  display: flex;
+  margin-top: 40rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  border-radius: 20rpx;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.image1{
+  width: 30rpx;
+  height: 30rpx;
+  margin-right: 20rpx
+}
+.image71{
+  height: 50rpx;
+  width: 50rpx;
+  margin-left: 420rpx;
+}
+.font2{
+  color: #C5C5C7;
+  margin-right: 7rpx;
+}
+.font_foot{
+  margin: 26rpx;
+  font-size: 31rpx;
+  font-weight: 550;
+}
+.hover_btn{
+  border-radius: 30rpx;
+  box-shadow:0rpx 0rpx 10rpx rgba(34, 33, 41, 0.767); 
+  top:1rpx;
+  position:relative;
+}
