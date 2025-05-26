@@ -1,0 +1,24 @@
+<!--pages/test02/test02.wxml-->
+<view class="A1">
+	<view class="font1"hover-class="hover_btn" bindtap="test1">取消</view>
+	<view class="font47">新提醒事项</view>
+	<view class="font37" hover-class="hover_btn" bindtap="test2" style="color: {{cl}};">添加</view>
+</view>
+
+<view class="A2">
+  <input class="a21" type="text" placeholder="标题" placeholder-style="color: #C5C5C7;" bindinput="handinput"/>
+  <view class="hrline"></view>
+  <textarea class="a22" placeholder="备注" placeholder-style="color: #C5C5C7;" />
+</view>
+
+<view class="A3">
+  <view class="font_foot">详细信息</view>
+  <image class="image1" src="/pages/static/image/向右箭头.png"/>
+</view>
+
+<view class="A3">
+<view  class="font_foot">列表</view>
+  <image class="image71" src="{{src}}" />
+  <view class="font2">提醒</view>
+  <image class="image1" src="/pages/static/image/向右箭头.png"/>
+</view>

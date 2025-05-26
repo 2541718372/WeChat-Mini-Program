@@ -1,0 +1,99 @@
+<!--pages/test01/test01.wxml-->
+<image class="image_head" src="/pages/static/image/更多.png"/>
+<view class="input_box">
+	<view ><image class="image_Search" src="/pages/static/image/搜索框.png"></image></view>
+	<input  type="text" placeholder="搜索"/>
+</view>
+
+<view class="Card_Outer">
+		<view>
+			<view class="Card_Wrap">
+				<view class="card_Row">
+					<image class="image1" src="/pages/static/image/icon-日总结.png" ></image> 
+					<view class="font1">{{count}}</view>
+				</view>
+				<view class="font2">今天</view>
+			</view>
+		</view>
+
+		<view>
+			<view class="Card_Wrap">
+				<view class="card_Row">
+					<image class="image2" src="/pages/static/image/计划.png" ></image> 
+					<view class="font1">0</view>
+				</view>
+				<view class="font2">计划</view>
+			</view>
+		</view>
+</view>
+
+<view class="Card_Outer">
+		<view>
+			<view class="Card_Wrap">
+				<view class="card_Row">
+					<view class="image3_view_1">
+            <image class="image3" src="/pages/static/image/全部.png" ></image> 
+          </view>
+					<view class="font1">{{count}}</view>
+				</view>
+				<view class="font2">全部</view>
+			</view>
+		</view>
+
+		<view>
+			<view class="Card_Wrap">
+				<view class="card_Row">
+          <view class="image4_view_1" >
+            <image class="image4" src="/pages/static/image/旗标.png" ></image> 
+          </view>
+					<view class="font1">0</view>
+        </view>
+				<view class="font2">旗标</view>
+			</view>
+		</view>
+</view>
+
+	<view class="Card_Outer_1">
+		<view class="Card_Wrap">
+			<view class="card_Row">
+				<image class="image5" src="/pages/static/image/完成.png" ></image> 
+				<view class="font1">0</view>
+			</view>
+			<view class="font2">完成</view>
+		</view>
+	</view>
+
+<view class="font3">我的列表</view>
+
+<view class="List_Outer">
+		<view class="item_Wrap_1">
+			<view class="item_A1">
+				<image class="b1" src="/pages/static/image/列表-橙色.png"></image>
+				<view class="font4">提醒</view>
+			</view>
+			<view class="item_A2">{{count}}</view>
+            <image class="img3" src="/pages/static/image/向右箭头.png"></image>
+		</view>
+        <view class="hrline"></view>
+		<view class="item_Wrap_2">
+			<view class="item_B1">
+				<image class="d1" src="/pages/static/image/列表-蓝色.png"></image>
+				<view class="font5">每日计划</view>
+			</view>
+				<view class="item_B2">0</view>
+				<image class="img4" src="/pages/static/image/向右箭头.png"></image>
+		</view>
+</view>
+
+<view class="Y1">
+	<view class="y1"hover-class="hover_btn" bindtap="test1">
+		<image class="img5" src="/pages/static/image/添加.png"></image>
+		<view class="font6" >新提醒事项</view>
+	</view>
+  <view class="font7">添加列表</view>
+</view>
+
+
+
+
+
