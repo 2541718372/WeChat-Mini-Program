@@ -1,0 +1,23 @@
+<!--pages/test04/test04.wxml-->
+
+<view class="A1">
+    <view><image src="/pages/static/images/page/d/iocn_home_01.png"/></view>
+    <view><image src="/pages/static/images/page/d/iocn_home_02.png"/></view>
+    <view><image src="/pages/static/images/page/d/iocn_home_03.png"/></view>
+</view>
+<view class="A2" >
+  <view>我的订单</view>
+  <view>优惠券</view>
+  <view>收货地址</view>
+</view>
+<view class="B1">
+    <view><image src="/pages/static/images/page/d/iocn_home_04.png"/></view>
+    <view><image src="/pages/static/images/page/d/iocn_home_04.png"/></view>
+    <view><image src="/pages/static/images/page/d/iocn_home_04.png"/></view>
+</view>
+
+<view class="A2" >
+  <view>我的订单</view>
+  <view>优惠券</view>
+  <view>收货地址</view>
+</view>

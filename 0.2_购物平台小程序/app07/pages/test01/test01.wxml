@@ -1,0 +1,28 @@
+<!--pages/test01/test01.wxml-->
+<swiper class="A1">
+	<swiper-item><image src="/pages/static/images/page/a/a1.jpg" /> </swiper-item>
+	<swiper-item>	<image src="/pages/static/images/page/a/a2.jpg" />	</swiper-item>
+	<swiper-item>	<image src="/pages/static/images/page/a/a3.jpg" />	</swiper-item>
+  <swiper-item>	<image src="/pages/static/images/page/a/a4.jpg" />	</swiper-item>
+  <swiper-item>	<image src="/pages/static/images/page/a/a5.jpg" />	</swiper-item>
+</swiper>
+
+<view class="B1">
+  <view class="B3">新品推荐</view>
+  <view class="B2">
+    <view><image src="/pages/static/images/page/a/chengzi.jpg" /></view>
+    <view><image src="/pages/static/images/page/a/lanmei.jpg" /></view>
+    <view><image src="/pages/static/images/page/a/mihoutao.jpg" /></view>
+  </view>
+  
+</view>
+
+<view class="C1">
+  <view class="C3">超值买</view>
+  <view class="C2">
+    <view><image src="/pages/static/images/page/a/chengzi.jpg" /></view>
+    <view><image src="/pages/static/images/page/a/lanmei.jpg" /></view>
+    <view><image src="/pages/static/images/page/a/mihoutao.jpg" /></view>
+  </view>
+  
+</view>

@@ -1,0 +1,28 @@
+/* pages/test04/test04.wxss */
+.A1{
+  display: flex;
+  justify-content: space-around;
+}
+.A1 image{
+  margin-top: 290rpx;
+  display: flex;
+  justify-content: space-around;
+  width: 210rpx;
+  height: 210rpx;
+}
+
+.A2{
+  display: flex;
+  justify-content: space-around;
+}
+.B1{
+  display: flex;
+  display: flex;
+  justify-content: space-around;
+}
+
+.B1 image{
+  
+  width: 210rpx;
+  height: 210rpx;
+}

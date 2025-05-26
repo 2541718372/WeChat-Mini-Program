@@ -1,0 +1,29 @@
+/* pages/test01/test01.wxss */
+.A1 image{
+    width: 100%;
+    height: 300rpx;
+}
+.B2 {
+  display: flex;
+}
+.B2 image{
+    width: 250rpx;
+    height: 250rpx;
+}
+.B3{
+  font-size: 60rpx;
+  font-size: bold;
+  color: #008000;
+}
+.C2 {
+  display: flex;
+}
+.C2 image{
+    width: 250rpx;
+    height: 250rpx;
+}
+.C3{
+  font-size: 60rpx;
+  font-size: bold;
+   color: #008000;
+}

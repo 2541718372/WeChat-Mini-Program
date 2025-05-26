@@ -1,0 +1,53 @@
+<!--pages/test02/test02.wxml-->
+<view class="A1">
+  <Button type="primary">默认</Button>
+  <Button type="primary">价格</Button>
+  <Button type="primary">热销</Button>
+ 
+</view>
+
+<view class="B1">
+  <view><image src="/pages/static/images/page/a/chengzi.jpg"/></view>
+  <view>
+    <view>澳大利亚脐橙12个约160g/个</view>
+    <view>(北京)</view>
+    <view class="B2">
+      <view class="B21">129</view>
+      <view class="B22" >4.5kg/箱</view>
+    </view>
+  </view>
+</view>
+<view class="B1">
+  <view><image src="/pages/static/images/page/a/chengzi.jpg"/></view>
+  <view>
+    <view>澳大利亚脐橙12个约160g/个</view>
+    <view>(北京)</view>
+    <view class="B2">
+      <view class="B21">129</view>
+      <view class="B22" >4.5kg/箱</view>
+    </view>
+  </view>
+</view>
+<view class="B1">
+  <view><image src="/pages/static/images/page/a/chengzi.jpg"/></view>
+  <view>
+    <view>澳大利亚脐橙12个约160g/个</view>
+    <view>(北京)</view>
+    <view class="B2">
+      <view class="B21">129</view>
+      <view class="B22" >4.5kg/箱</view>
+    </view>
+  </view>
+</view>
+<view class="B1">
+  <view><image src="/pages/static/images/page/a/chengzi.jpg"/></view>
+  <view>
+    <view>澳大利亚脐橙12个约160g/个</view>
+    <view>(北京)</view>
+    <view class="B2">
+      <view class="B21">129</view>
+      <view class="B22" >4.5kg/箱</view>
+    </view>
+  </view>
+</view>
+

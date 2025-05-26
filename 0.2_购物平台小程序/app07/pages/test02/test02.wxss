@@ -1,0 +1,35 @@
+/* pages/test02/test02.wxss */
+.A1{
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border:#008000 solid 1rpx;
+  
+}
+.A1 button{
+  width: 300rpx;
+  background-color: #008000;
+}
+
+.B1{
+  display: flex;
+  font-size: 32rpx;
+}
+
+.B1 image{
+  width: 250rpx;
+  height: 250rpx;
+}
+
+.B2{
+  margin-top: 120rpx;
+  display: flex;
+}
+.B21{
+  font-weight: bold;
+  color: red;
+}
+.B22{
+  margin-left: 40rpx;
+}
