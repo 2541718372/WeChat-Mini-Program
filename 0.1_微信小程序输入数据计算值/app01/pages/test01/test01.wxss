@@ -1,0 +1,16 @@
+/* pages/test01/test01.wxss */
+page{
+  background:#F1F0F6;
+}
+.vw1 view{
+    padding: 10rpx;
+    background: white;
+    margin-top: 20rpx;
+}
+.vw2{
+  margin-top: 20rpx;
+}
+.vw3 view{
+  background: white;
+  margin-top: 20rpx;
+}

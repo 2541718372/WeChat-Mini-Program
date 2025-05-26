@@ -1,0 +1,17 @@
+<!--pages/test01/test01.wxml-->
+
+<view class="vw1">
+  <view><input type="text" placeholder="请输入你的名字" bindinput="text1"  /></view>
+  <view class="a1"><input type="text" placeholder="请输入你的语文成绩" bindinput="text2" /></view>
+  <view class="a2"><input type="text" placeholder="请输入你的数学成绩"bindinput="text3" /></view>
+</view>
+
+<view class="vw2" bind:tap="test" bindinput="text4"><button type="primary" >点击</button></view>
+
+
+<view class="vw3" style=" display: {{display}};">
+  <view >姓名: {{name}}</view>
+  <view >语文成绩:{{yuwen}}</view>
+  <view >数学成绩:{{shuxue}}</view>
+  <view >平均分:{{avg}}</view>
+</view>
